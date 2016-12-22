@@ -6,7 +6,7 @@ Keeping track of my newly-formed Virtual Boy game collection :)
 | Game | USA | JP | Notes |
 | --- | --- | --- | --- |
 | 3-D Tetris | | N/A | |
-| Galactic Pinball | | x | Japanese version not boxed |
+| Galactic Pinball | | x | Japanese version loose |
 | Golf | | x | |
 | Insmouse No Yakata | N/A | | |
 | Jack Bros. | | | |
