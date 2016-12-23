@@ -14,7 +14,7 @@ Keeping track of my newly-formed Virtual Boy game collection :)
 | Mario's Tennis | | x | |
 | Nester's Funky Bowling | | N/A | |
 | Panic Bomber | | x | |
-| Red Alarm | | | |
+| Red Alarm | | x | |
 | SD Gundam Dimension War | N/A | | |
 | Space Invaders Virtual Collection | N/A | | |
 | Space Squash | N/A | | |
