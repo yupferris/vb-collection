@@ -22,7 +22,7 @@ Keeping track of my newly-formed Virtual Boy game collection :)
 | V-Tetris | N/A | x | |
 | Vertical Force | | x | |
 | Virtual Bowling | N/A | | |
-| Virtual Boy Wario Land | | | |
+| Virtual Boy Wario Land | x | | |
 | Virtual Fishing | N/A | | |
 | Virtual Lab | N/A | | |
 | Virtual League Baseball | | | |
