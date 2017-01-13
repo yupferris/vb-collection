@@ -25,5 +25,5 @@ Keeping track of my newly-formed Virtual Boy game collection :)
 | Virtual Boy Wario Land | x | | |
 | Virtual Fishing | N/A | | |
 | Virtual Lab | N/A | | |
-| Virtual League Baseball | | | |
+| Virtual League Baseball | | x | |
 | Waterworld | | N/A | |
