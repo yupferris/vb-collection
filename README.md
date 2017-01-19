@@ -11,14 +11,14 @@ Keeping track of my newly-formed Virtual Boy game collection :)
 | Insmouse No Yakata | N/A | | |
 | Jack Bros. | | | |
 | Mario Clash | | | |
-| Mario's Tennis | | x | |
+| Mario's Tennis | x | x | USA version loose, not in great shape |
 | Nester's Funky Bowling | | N/A | |
 | Panic Bomber | | x | |
 | Red Alarm | | x | |
 | SD Gundam Dimension War | N/A | | |
 | Space Invaders Virtual Collection | N/A | | |
 | Space Squash | N/A | | |
-| Teleroboxer | | x | |
+| Teleroboxer | x | x | USA version loose, not in great shape |
 | V-Tetris | N/A | x | |
 | Vertical Force | | x | |
 | Virtual Bowling | N/A | | |
