@@ -23,7 +23,7 @@ Keeping track of my newly-formed Virtual Boy game collection :)
 | Vertical Force | | x | |
 | Virtual Bowling | N/A | | |
 | Virtual Boy Wario Land | x | | USA box in pretty rough shape |
-| Virtual Fishing | N/A | | |
+| Virtual Fishing | N/A | x | Box not in the best shape |
 | Virtual Lab | N/A | | |
 | Virtual League Baseball | | x | |
 | Waterworld | | N/A | |
