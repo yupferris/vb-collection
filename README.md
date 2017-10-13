@@ -10,7 +10,7 @@ Keeping track of my newly-formed Virtual Boy game collection :)
 | Golf | | x | |
 | Insmouse No Yakata | N/A | | |
 | Jack Bros. | | | |
-| Mario Clash | | | |
+| Mario Clash | | x | JP version loose |
 | Mario's Tennis | x | x | USA version loose, not in great shape |
 | Nester's Funky Bowling | | N/A | |
 | Panic Bomber | | x | |
